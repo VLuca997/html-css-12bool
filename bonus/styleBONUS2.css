@@ -1,0 +1,40 @@
+/*
+
+    RESET
+
+*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.container{
+    max-width: 93.75rem;
+    margin: 0 auto;
+    margin-bottom: 1.25rem;
+    margin-top: 1.25rem;
+    text-align: center;
+}
+
+.row > div{
+    padding: .1875rem;
+}
+
+
+
+.box{
+    width: 100%;
+    padding: .9375rem;
+    background-color: #006cfa;
+    color: white;
+
+}
+.box2{
+    width: 100%;
+    padding: .9375rem;
+    background-color: #05c25a;
+    color: white;
+}
