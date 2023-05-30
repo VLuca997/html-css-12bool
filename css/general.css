@@ -19,9 +19,7 @@
     COMMON 
 
 */
-html{
-    background-color: crimson;
-}
+
 .container{
     max-width: 73.125rem;
     margin: 0 auto;
@@ -31,16 +29,14 @@ html{
 }
 .box{
     width: 100%;
-    padding: 1.25rem;
-    background-color: blueviolet;
+    padding: .9375rem;
+    background-color: #006cfa;
     color: white;
-    border: .125rem dashed yellow;
-    
 }
 .box2{
     width: 100%;
     padding: .625rem;
-    background-color: greenyellow;
+    background-color: #00e165;
     color: black;
     
 }
