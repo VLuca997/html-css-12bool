@@ -25,6 +25,9 @@ html{
 .container{
     max-width: 73.125rem;
     margin: 0 auto;
+    margin-bottom: 1.25rem;
+    margin-top: 1.25rem;
+    text-align: center;
 }
 .box{
     width: 100%;
@@ -32,13 +35,12 @@ html{
     background-color: blueviolet;
     color: white;
     border: .125rem dashed yellow;
-    text-align: center;
+    
 }
 .box2{
     width: 100%;
-    padding: 1.25rem;
+    padding: .625rem;
     background-color: greenyellow;
     color: black;
-    border: .125rem dashed red;
-    text-align: center;
+    
 }
